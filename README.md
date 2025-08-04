@@ -6,7 +6,9 @@ Project is about tracking the asetorids that approached using various factors wi
 
 This project contains NASA api asetroids data 
 
-steps involed are : Getting the NASA API Key
+steps involed are : 
+
+                    Getting the NASA API Key
 
                     Extract Data Using NASA's Asteroid API
                     
